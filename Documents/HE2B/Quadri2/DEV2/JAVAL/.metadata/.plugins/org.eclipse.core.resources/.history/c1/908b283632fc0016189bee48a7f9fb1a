@@ -1,0 +1,9 @@
+package g43194.td04;
+
+public class Point {
+
+	public Point() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

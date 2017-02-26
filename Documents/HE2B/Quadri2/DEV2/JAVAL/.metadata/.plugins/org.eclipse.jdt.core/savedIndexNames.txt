@@ -1,18 +1,4 @@
 INDEX VERSION 1.129+/home/lonny-hp/Documents/HE2B/Quadri2/DEV2/JAVAL/.metadata/.plugins/org.eclipse.jdt.core
-1877093033.index
-2327622179.index
-233986012.index
-968931881.index
-1997667970.index
-2307621717.index
-4215861963.index
-535874630.index
-2229710290.index
+2505253190.index
 3604587972.index
-4112262307.index
-2339797350.index
-2711402884.index
-1437087758.index
-2074392564.index
-2016267524.index
-852058031.index
+1220358247.index
